@@ -1,7 +1,6 @@
 **Project Title**
 
-[Enter your project name here]
-
+Team Wanderer 
 **📌 Project Overview**
 
 [Provide a short description of your project]
