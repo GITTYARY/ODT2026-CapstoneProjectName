@@ -1,10 +1,8 @@
-**Project Title**
-
-[Enter your project name here]
+The wanderer
+A dancing doll console game
 
 **📌 Project Overview**
-
-[Provide a short description of your project]
+Wanderer is a two-part interactive system: a player-facing console with push buttons and an OLED mini-game screen, and a stage housing a physically animated doll controlled by servo motors. The player's button inputs travel wirelessly from one ESP32 to another, triggering real doll movements in sync with on-screen prompts.
 
 
 **📂 Repository Structure**
@@ -28,4 +26,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Aryan, Arshia, Manasa
